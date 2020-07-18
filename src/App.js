@@ -11,6 +11,7 @@ function App() {
      setCount(currentTime);
   }
 
+  
   setInterval(getTime, 1000);
 
   return (
